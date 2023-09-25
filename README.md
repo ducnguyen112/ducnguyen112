@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Đức</h1>
 <h3 align="center">"I am passionate about researching practical AI applications and operating system (MLOps)."</h3>
 
-<img align="right" alt="Coding" width="300" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
+<img align="right" alt="Coding" width="300" src=https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif>
 
 - 🔭 I’m currently a **Computer Science student at National Economics University (NEU)**
 
